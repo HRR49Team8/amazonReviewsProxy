@@ -21,5 +21,6 @@ module.exports = {
   rules: {
     'linebreak-style': 'off',
     'no-console': 'off',
+    'object-curly-newline': 'off',
   },
 };
